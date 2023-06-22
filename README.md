@@ -6,4 +6,6 @@
 
     zypper ar -cfp 90 https://ftp.fau.de/packman/suse/openSUSE_Tumbleweed/ packman
 
-2. TBD
+Refer to <https://en.opensuse.org/Additional_package_repositories>.
+
+3. TBD
