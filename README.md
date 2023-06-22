@@ -7,6 +7,15 @@
     zypper in cmake
     zypper in python
 
+    mkdir llvm-project
+    cd llvm-project
+    git clone https://github.com/llvm/llvm-project.git .
+    mkdir build
+    cd build
+    cmake -DLLVM_ENABLE_PROJECTS=clang -DCMAKE_BUILD_TYPE=Release -G "Unix Makefiles" ../llvm
+    make
+    make install
+
 ## QA
 
 
