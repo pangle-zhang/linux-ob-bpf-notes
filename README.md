@@ -16,6 +16,10 @@
     make
     make install
 
+Refer to:
+    
+- <https://clang.llvm.org/get_started.html>
+
 ## QA
 
 
