@@ -1,5 +1,10 @@
 # linux-ob-bpf-notes
 
+## SLES15 SP4
+
+    zypper in git
+    zypper in gcc gcc-c++
+    zypper in cmake
 
 ## QA
 
