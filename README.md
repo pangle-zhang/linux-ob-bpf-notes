@@ -5,6 +5,7 @@
     zypper in git
     zypper in gcc gcc-c++
     zypper in cmake
+    zypper in python
 
 ## QA
 
